@@ -13,7 +13,6 @@ Joel John Mathew
 Soham Mukherjee  
 (Wing C4)  
 
-(The model doesn't predict correctly in some cases)  
 
 However, due to some reason, I'm unable to run the file 'csv_file_generation.ipynb' on colab as it keeps crashing 'memory not sufficient'.
 
